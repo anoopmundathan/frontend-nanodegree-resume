@@ -1,3 +1,6 @@
+# frontend-nanodegree-resume
+First Udacity Frontend Nanodegree Resume Project
+
 ## How do I complete this project?
 
 1. Go to the [Javascript Basics course](https://www.udacity.com/course/ud804) and select "View Course Materials."
