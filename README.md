@@ -1,5 +1,5 @@
 # frontend-nanodegree-resume
-First Udacity Frontend Nanodegree Resume Project
+> Udacity FrontEnd Developer Nanodegree - Project [Live Demo](http://anoopmundathan.github.io/frontend-nanodegree-resume/)
 
 ## How do I complete this project?
 
